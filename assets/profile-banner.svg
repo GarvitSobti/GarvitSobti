@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="400" viewBox="0 0 1400 400" role="img" aria-labelledby="title desc">
+<title id="title">Garvit Sobti — Useful agents. Reliable systems.</title>
+<desc id="desc">A dark technical banner with mint accents and a context-to-tools-to-action diagram.</desc>
+<defs><pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#27364a"/></pattern></defs>
+<rect width="1400" height="400" rx="18" fill="#101b2c"/>
+<rect x="760" y="0" width="640" height="400" fill="url(#dots)"/>
+<path d="M785 0V400" stroke="#2c3d50" stroke-width="1"/>
+<rect x="58" y="52" width="7" height="18" fill="#96f1c1"/>
+<text x="82" y="67" font-family="Consolas,monospace" font-size="18" letter-spacing="3" fill="#96f1c1">GARVIT SOBTI</text>
+<text x="58" y="158" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="62" letter-spacing="-2" fill="#f1f5fa">Useful agents.</text>
+<text x="58" y="232" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="62" letter-spacing="-2" fill="#f1f5fa">Reliable systems.</text>
+<path d="M58 281H700" stroke="#344458"/>
+<text x="58" y="322" font-family="Consolas,monospace" font-size="16" letter-spacing="1.5" fill="#aab9ca">SOFTWARE ENGINEER  /  SINGAPORE</text>
+<text x="842" y="76" font-family="Consolas,monospace" font-size="14" letter-spacing="2" fill="#93a4b8">FROM CONTEXT TO CAPABILITY</text>
+<path d="M886 143V278H1216V143M886 211H1216M1051 143V278" fill="none" stroke="#456174" stroke-width="2"/>
+<circle cx="886" cy="143" r="14" fill="#96f1c1"/>
+<circle cx="1051" cy="143" r="14" fill="#101b2c" stroke="#96f1c1" stroke-width="3"/>
+<circle cx="1216" cy="143" r="14" fill="#101b2c" stroke="#96f1c1" stroke-width="3"/>
+<circle cx="886" cy="278" r="5" fill="#96f1c1"/><circle cx="1051" cy="278" r="5" fill="#96f1c1"/><circle cx="1216" cy="278" r="5" fill="#96f1c1"/>
+<text x="886" y="190" text-anchor="middle" font-family="Consolas,monospace" font-size="15" fill="#e3edf7">CONTEXT</text>
+<text x="1051" y="190" text-anchor="middle" font-family="Consolas,monospace" font-size="15" fill="#e3edf7">TOOLS</text>
+<text x="1216" y="190" text-anchor="middle" font-family="Consolas,monospace" font-size="15" fill="#e3edf7">ACTION</text>
+<text x="842" y="331" font-family="Consolas,monospace" font-size="14" fill="#93a4b8">AI AGENTS / INTEGRATIONS / CLOUD</text>
+</svg>
